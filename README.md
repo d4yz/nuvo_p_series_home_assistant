@@ -1,7 +1,7 @@
 # nuvo_p_series_home_assistant
 NuVo P Series Home Assistant
 
-
+```
 import upnpclient
 import json
 
@@ -81,41 +81,6 @@ print (zone_memberid2)
 	#~ print ("")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #~ print "AVTransport Actions"
 #~ print d.AVTransport.actions
 #~ print ""
@@ -179,4 +144,4 @@ print (zone_memberid2)
 #~ print d.ZoneService.GetActive()
 
 
-
+```
