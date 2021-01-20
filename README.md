@@ -1,6 +1,9 @@
 # nuvo_p_series_home_assistant
 NuVo P Series Home Assistant
 
+This is a work in progress. Just saving this right now to see what I can do.
+Uses upnpclient. You can install it with 'pip install upnpclient'
+
 ```
 import upnpclient
 import json
